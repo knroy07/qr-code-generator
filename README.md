@@ -33,5 +33,5 @@ pip install qrcode[pil]
 Run the script:
 
 ```bash
-python qr_generator.py
+python qrGenerator.py
 ```
